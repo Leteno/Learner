@@ -10,4 +10,4 @@
 
 #### 看文档所得
 
-* [Ninja 的文档](ninja/)
+* [Ninja 的文档](docs/ninja/)
